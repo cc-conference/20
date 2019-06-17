@@ -65,3 +65,18 @@ table.program tr td ul li {
 .page-content section:first-child:not(.no-top-padding) {
     padding-top: 48px;
 }
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.portrait-small {
+    width: 160px;
+    height: 110px;
+}
+
+
